@@ -1,0 +1,3 @@
+[submodule "6-thunder-loan-audit"]
+	path = 6-thunder-loan-audit
+	url = https://github.com/Cyfrin/6-thunder-loan-audit
